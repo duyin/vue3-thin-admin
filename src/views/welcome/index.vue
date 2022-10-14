@@ -5,5 +5,5 @@ defineOptions({
 </script>
 
 <template>
-  <h1>Pure-Admin-Thin</h1>
+  <h1>vue3-thin-admin</h1>
 </template>
