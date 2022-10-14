@@ -23,3 +23,4 @@ pnpm add 包名
 ### 卸载一个包
 
 pnpm remove 包名
+# vue3-thin-admin
